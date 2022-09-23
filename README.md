@@ -1,5 +1,7 @@
-### Hi there 👋
+# How's it going?👋
 
+Hi, I'm Samir, and I'll be a developer soon...
+I've begun in the university for 8 months ago.
 <!--
 **SamirCharleston/SamirCharleston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
