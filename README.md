@@ -5,6 +5,7 @@
 
 >I've begun in the university for 8 months ago. :paperclip:
 
+![C language] (https://raw.githubusercontent.com/SamirCharleston/SamirCharleston/main/C_Programming_Language.png)
 
 <!--
 **SamirCharleston/SamirCharleston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
