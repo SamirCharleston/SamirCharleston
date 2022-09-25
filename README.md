@@ -1,11 +1,12 @@
 # **How's it going?**
 
-
 ### Hi, I'm Samir, and I'll be a developer soon... :octocat:
 
 >I've begun in the university for 8 months ago. :paperclip:
 
-![C language] (https://raw.githubusercontent.com/SamirCharleston/SamirCharleston/main/C_Programming_Language.png)
+Programming languages I've learned right now
+
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 <!--
 **SamirCharleston/SamirCharleston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
