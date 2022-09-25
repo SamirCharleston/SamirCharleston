@@ -18,7 +18,7 @@
 
 <img alt="Html Css JavaScript" width="150" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" />
   
- #### **My social medias**
+ #### **My social media & contact**
   
  <div>
   <a href="https://www.linkedin.com/in/samir-charleston" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
