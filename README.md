@@ -1,6 +1,4 @@
-<h1 align="center">
-  <b>How's it going?</b>
-</h1>
+# **How's it going?**
 
 ### Hi, I'm Samir, and I'll be a developer soon... 🚀
 
