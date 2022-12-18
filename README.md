@@ -5,11 +5,9 @@
 
 <br>
 
-<div id="estats">
-  <a href="https://github.com/SamirCharleston">
+
     [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=samircharleston&hide=stars&show_icons=true&count_private=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-  </a>
-</div>
+
     [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=samircharleston&hide=stars&show_icons=true&count_private=true&theme=chartreuse-dark&show_owner=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston)](https://github.com/anuraghazra/github-readme-stats)
