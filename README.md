@@ -5,7 +5,7 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?samircharleston=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisamircharleston=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 #### **My technologies**
 <div style="color: white">
