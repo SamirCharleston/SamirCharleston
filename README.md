@@ -5,7 +5,7 @@
 
 <br>
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=samircharleston&hide=stars&show_icons=true&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=samircharleston&hide=stars&show_icons=true&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### **My technologies**
 <div style="color: white">
