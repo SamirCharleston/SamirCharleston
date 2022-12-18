@@ -17,12 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  
-  <picture height="40" width="52" alt="bash logo">
-    <source srcset="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" media="(prefers-color-scheme: dark)"/>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  </picture>
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 <div/>
