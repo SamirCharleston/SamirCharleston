@@ -56,8 +56,9 @@
   
  <br>
 
-#### **🌱What I'm studying in this time**
+#### **🌱I'm studying BackEnd now**
 
+<br>
   
  <div align="center">
    <h4>My social media & contact</h4>
