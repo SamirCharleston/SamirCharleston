@@ -1,6 +1,6 @@
 <div id="welcome" align="center">
   <picture>
-    <source srcset="https://readme-typing-svg.herokuapp.com/?color=42b883&size=35&center=true&vCenter=true&width=1000&lines=How's+it+going?;My+name+is+Samir+Charleston;nice+to+meet+you;I'm+majoring+in+software+engineering;Be+Welcome!+:%29" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://readme-typing-svg.herokuapp.com/?color=7FFE00&size=35&center=true&vCenter=true&width=1000&lines=How's+it+going?;My+name+is+Samir+Charleston;nice+to+meet+you;I'm+majoring+in+software+engineering;Be+Welcome!+:%29" media="(prefers-color-scheme: dark)"/>
     <source srcset="https://readme-typing-svg.herokuapp.com/?color=42b883&size=35&center=true&vCenter=true&width=1000&lines=How's+it+going?;My+name+is+Samir+Charleston;nice+to+meet+you;I'm+majoring+in+software+engineering;Be+Welcome!+:%29" media="(prefers-color-scheme: light)"/>
     <img src="https://readme-typing-svg.herokuapp.com/?color=42b883&size=35&center=true&vCenter=true&width=1000&lines=How's+it+going?;My+name+is+Samir+Charleston;nice+to+meet+you;I'm+majoring+in+software+engineering;Be+Welcome!+:%29" alt="Welcome"/>
   </picture>
