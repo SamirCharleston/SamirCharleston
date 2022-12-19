@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-  <h3>My technologies</h3>
+  <h4>My technologies</h4>
   <a href="https://github.com/SamirCharleston">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="C">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="52" alt="Arduino"/>
@@ -40,7 +40,7 @@
 <br/>
   
 <div align="center">
-  <h3>My tools</h3>
+  <h4>My tools</h4>
   <a href="https://github.com/SamirCharleston">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
     <picture>
@@ -60,7 +60,7 @@
 
   
  <div align="center">
-   #### **My social media & contact**
+   <h4>My social media & contact</h4>
   <a href="https://www.linkedin.com/in/samir-charleston" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/5545999787022" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  <a href="mailto:samircharleston@gmail.com?subject=We want to meet you 😉" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <div/>
