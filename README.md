@@ -1,11 +1,14 @@
-# **How's it going?**
-
-#### Hi, I'm Samir, and I'm becoming a developer 🚀
-<sub> 🔭I've begun in the university for one year ago.</sub>
+<div id="welcome" align="center">
+  <picture>
+    <source srcset="https://readme-typing-svg.herokuapp.com/?color=42b883&size=35&center=true&vCenter=true&width=1000&lines=How's+it+going?;My+name+is+Samir+Charleston;nice+to+meet+you;I'm+majoring+in+software+engineering;Be+Welcome!+:%29" media="(prefers-color-scheme: dark)"/>
+    <source srcset="https://readme-typing-svg.herokuapp.com/?color=42b883&size=35&center=true&vCenter=true&width=1000&lines=How's+it+going?;My+name+is+Samir+Charleston;nice+to+meet+you;I'm+majoring+in+software+engineering;Be+Welcome!+:%29" media="(prefers-color-scheme: light)"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=42b883&size=35&center=true&vCenter=true&width=1000&lines=How's+it+going?;My+name+is+Samir+Charleston;nice+to+meet+you;I'm+majoring+in+software+engineering;Be+Welcome!+:%29" alt="Welcome"/>
+  </picture>
+</div>
 
 <br>
 
-<div id="stats">
+<div id="stats" align="center">
   <a href="https://github.com/SamirCharleston">
   <picture id="statistics">
       <source srcset="https://github-readme-stats.vercel.app/api?username=samircharleston&hide=stars&show_icons=true&count_private=true&theme=vue#gh-light-mode-only" media="(prefers-color-scheme: light)"/>
