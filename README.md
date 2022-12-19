@@ -67,7 +67,7 @@
  <div/>
    
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{samircharleston}/count.svg" /></p> 
-<br>
+  <br>
+  <p><b>Visitors Count</b></p>
+  <img align="center" src="https://profile-counter.glitch.me/{samircharleston}/count.svg" />
 </div>
