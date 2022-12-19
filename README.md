@@ -36,6 +36,11 @@
 <div>
   <a href="https://github.com/SamirCharleston">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+    <picture>
+      <source srcset="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" media="(prefers-color-scheme: light)">
+      <source srcset="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" height="40" width="52" alt="bash logo"/>
+    </picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
