@@ -23,7 +23,7 @@
 
 #### **My technologies**
 <div style="color: white">
-  <a href="href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <a href="href="https://en.wikipedia.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="C">
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="52" alt="Arduino"/>
