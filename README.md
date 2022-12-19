@@ -27,7 +27,7 @@
 <br/>
 
 <div align="left">
-  <h4>  My technologies</h4>
+  <h4>&nbsp&nbsp My technologies</h4>
   <a href="https://github.com/SamirCharleston">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="C">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="52" alt="Arduino"/>
@@ -40,7 +40,7 @@
 <br/>
   
 <div align="left">
-  <h4>  My tools</h4>
+  <h4>&nbsp&nbsp My tools</h4>
   <a href="https://github.com/SamirCharleston">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
     <picture>
