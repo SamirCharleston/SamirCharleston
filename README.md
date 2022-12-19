@@ -7,7 +7,7 @@
 
 <div id="stats">
   
-  <picture id="statistics>
+  <picture id="statistics">
     <source srcset="https://github-readme-stats.vercel.app/api?username=samircharleston&hide=stars&show_icons=true&count_private=true&theme=vue#gh-light-mode-only" media="(prefers-color-scheme: light)"/>
     <source srcset="https://github-readme-stats.vercel.app/api?username=samircharleston&hide=stars&show_icons=true&count_private=true&theme=chartreuse-dark&show_owner=true#gh-dark-mode-only" media="(prefers-color-scheme: dark)"/>
     <img src="https://github-readme-stats.vercel.app/api?username=samircharleston&hide=stars&show_icons=true&count_private=true"/>
