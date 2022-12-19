@@ -5,6 +5,12 @@
 
 <br>
 
+<style>
+  picture img:first-child {
+    width: 800px;
+  }
+</style>
+
 <div id="stats">
   
   <picture id="statistics">
