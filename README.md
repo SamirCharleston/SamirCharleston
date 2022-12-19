@@ -26,7 +26,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
   <h4>My technologies</h4>
   <a href="https://github.com/SamirCharleston">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="C">
@@ -39,7 +39,7 @@
   
 <br/>
   
-<div align="center">
+<div align="left">
   <h4>My tools</h4>
   <a href="https://github.com/SamirCharleston">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
