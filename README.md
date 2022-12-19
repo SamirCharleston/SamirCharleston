@@ -6,7 +6,7 @@
 <br>
 
 <style>
-  picture img:first-child {
+  picture img {
     width: 800px;
   }
 </style>
