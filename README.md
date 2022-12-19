@@ -21,9 +21,6 @@
   
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samircharleston&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
 #### **My technologies**
 <div style="color: white">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="C"/>
