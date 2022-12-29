@@ -68,6 +68,6 @@
    
 <div align="center">
   <br>
-  <p><b>Visitors Count</b></p>
+  <p><b>Load/Reload counter</b></p>
   <img align="center" src="https://profile-counter.glitch.me/{samircharleston}/count.svg" />
 </div>
