@@ -23,13 +23,13 @@
 
 <div>
   <a>
+  <a>
     <picture id="usage-languages">
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston&theme=vue" media="(prefers-color-scheme: light)"/>
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston&theme=chartreuse-dark"  media="(prefers-color-scheme: dark)"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston" height="200px"/>
     </picture>
   </a>
-  <a>
     <a align="left">
       <h4>&nbsp&nbsp My technologies</h4>
       <div>
