@@ -21,8 +21,8 @@
 
 <br/>
 <div align="center">
-  <div>
-    <div align="left">
+  <a>
+    <a align="left">
       <h4>&nbsp&nbsp My technologies</h4>
       <a href="https://github.com/SamirCharleston">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="C">
@@ -36,8 +36,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="52" alt="Springboot logo"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"/>
       </a>
-    <div/>
-    <div align="left">
+    <a/>
+    <a align="left">
       <h4>&nbsp&nbsp My tools</h4>
       <a href="https://github.com/SamirCharleston">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
@@ -52,15 +52,15 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" width="52" alt="intelij logo"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" width="52" alt="postman logo"  />
       </a>
-    <div/>
-  </div>
-  <div>
+    <a/>
+  </a>
+  <a>
     <picture id="usage-languages">
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston&theme=vue" media="(prefers-color-scheme: light)"/>
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston&theme=chartreuse-dark"  media="(prefers-color-scheme: dark)"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston" height="200px"/>
     </picture>
-  </div>
+  </a>
 </div>
   
 <br/>
