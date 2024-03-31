@@ -20,8 +20,9 @@
 </div>
 
 <br/>
+
 <a>
-    <a align="left">
+    <a>
         <a>
             <h4>&nbsp&nbsp My technologies</h4>
             <a href="https://github.com/SamirCharleston">
@@ -38,7 +39,7 @@
             </a>
         </a>
         
-        <a align="left">
+        <a>
             <h4>&nbsp&nbsp My tools</h4>
             <a href="https://github.com/SamirCharleston">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
