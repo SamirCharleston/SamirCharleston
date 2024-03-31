@@ -17,50 +17,60 @@
       <img src="https://github-readme-stats.vercel.app/api?username=samircharleston&hide=stars&show_icons=true&count_private=true" height="200px"/>
     </picture> -->
 
-  <picture id="usage-languages">
+    <!-- <picture id="usage-languages">
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston&theme=vue" media="(prefers-color-scheme: light)"/>
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston&theme=chartreuse-dark"  media="(prefers-color-scheme: dark)"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston" height="200px"/>
-    </picture>
+    </picture> -->
   </a>
 </div>
 
 <br/>
-
-<div align="left">
-  <h4>&nbsp&nbsp My technologies</h4>
-  <a href="https://github.com/SamirCharleston">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="C">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="52" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="52" alt="Java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="Vue.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" height="40" width="52" alt="Vuetify logo"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="52" alt="Springboot logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"/>
-  </a>
-<div/>
+<div>
+  <div>
+    <div align="left">
+      <h4>&nbsp&nbsp My technologies</h4>
+      <a href="https://github.com/SamirCharleston">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="C">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" width="52" alt="Arduino"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="52" alt="Java logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="Vue.js logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" height="40" width="52" alt="Vuetify logo"/>  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="52" alt="Springboot logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"/>
+      </a>
+    <div/>
+    <div align="left">
+      <h4>&nbsp&nbsp My tools</h4>
+      <a href="https://github.com/SamirCharleston">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+        <picture>
+          <source srcset="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" media="(prefers-color-scheme: light)">
+          <source srcset="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" media="(prefers-color-scheme: dark)">
+          <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" height="40" width="52" alt="bash logo"/>
+        </picture>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" width="52" alt="intelij logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" width="52" alt="postman logo"  />
+      </a>
+    <div/>
+  </div>
+  <div>
+    <picture id="usage-languages">
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston&theme=vue" media="(prefers-color-scheme: light)"/>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston&theme=chartreuse-dark"  media="(prefers-color-scheme: dark)"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston" height="200px"/>
+    </picture>
+  </div>
+</div>
   
 <br/>
   
-<div align="left">
-  <h4>&nbsp&nbsp My tools</h4>
-  <a href="https://github.com/SamirCharleston">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-    <picture>
-      <source srcset="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" media="(prefers-color-scheme: light)">
-      <source srcset="https://bashlogo.com/img/symbol/svg/full_colored_light.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" height="40" width="52" alt="bash logo"/>
-    </picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" width="52" alt="intelij logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" width="52" alt="postman logo"  />
-  </a>
-<div/>
   
  <br>
 
