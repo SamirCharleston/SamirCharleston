@@ -20,7 +20,7 @@
 </div>
 
 <br/>
-<div align="center">
+<a>
   <a>
     <div align="left">
       <h4>&nbsp&nbsp My technologies</h4>
@@ -61,7 +61,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston" height="200px"/>
     </picture>
   </a>
-</div>
+</a>
   
 <br/>
   
