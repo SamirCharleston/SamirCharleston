@@ -21,7 +21,7 @@
 
 <br/>
 <div>
-  <div>
+  <div style="display:flex">
     <div align="left">
       <h4>&nbsp&nbsp My technologies</h4>
       <a href="https://github.com/SamirCharleston">
