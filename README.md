@@ -21,7 +21,7 @@
 
 <br/>
 
-<a>
+<div>
   <a>
     <picture id="usage-languages">
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samircharleston&theme=vue" media="(prefers-color-scheme: light)"/>
@@ -62,7 +62,7 @@
       </a>
     </a>
   </a>
-</a>
+</div>
 
 <br/>
 
