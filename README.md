@@ -20,7 +20,7 @@
 </div>
 
 <br/>
-<div style="display:flex">
+<div align="center">
   <div>
     <div align="left">
       <h4>&nbsp&nbsp My technologies</h4>
